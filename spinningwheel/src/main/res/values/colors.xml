@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="rainbowDashRed">#EE4035</color>
-    <color name="rainbowDashPeach">#F37736</color>
-    <color name="rainbowDashYellow">#FDF498</color>
-    <color name="rainbowDashGreen">#7BC043</color>
-    <color name="rainbowDashBlue">#0392CF</color>
+    <color name="paletteRed">#c20000</color>
+    <color name="paletteLightRed">#ff2020</color>
+    <color name="paletteOrange">#ff7400</color>
+    <color name="paletteLightOrange">#ff8520</color>
+    <color name="paletteBlue">#009191</color>
+    <color name="paletteDarkBlue">#005858</color>
+    <color name="paletteGreen">#00e800</color>
+    <color name="paletteDarkGreen">#00c100</color>
 
     <string-array name="rainbow_dash">
-        <item>@color/rainbowDashRed</item>
-        <item>@color/rainbowDashPeach</item>
-        <item>@color/rainbowDashYellow</item>
-        <item>@color/rainbowDashGreen</item>
-        <item>@color/rainbowDashBlue</item>
+        <item>@color/paletteRed</item>
+        <item>@color/paletteOrange</item>
+        <item>@color/paletteBlue</item>
+        <item>@color/paletteGreen</item>
+        <item>@color/paletteLightRed</item>
+        <item>@color/paletteLightOrange</item>
+        <item>@color/paletteDarkBlue</item>
+        <item>@color/paletteDarkGreen</item>
     </string-array>
 </resources>

@@ -1,9 +1,28 @@
 <resources>
     <string name="app_name">Spinning Wheel</string>
 
-    <string-array name="dummy">
-        <item>Pasta</item>
-        <item>Pizza</item>
-        <item>Chocolate</item>
+    <string-array name="games">
+        <item>Arms Expert</item>
+        <item>Strangely Speaking</item>
+        <item>Forward-Reverse</item>
+        <item>Gibberish Interpreter</item>
+        <item>World\'s Worst</item>
+        <item>101</item>
+        <item>Back In My Day</item>
+        <item>From the Play</item>
+        <item>New Choice</item>
+        <item>Scenes in Half-Time</item>
+        <item>Two-Headed Expert</item>
+        <item>Film Noir</item>
+        <item>Shakespeare</item>
+        <item>Random Style</item>
+        <item>Genre Replay</item>
+        <item>ABCs in 90s</item>
+        <item>Shark Tank</item>
+        <item>Jeopardy</item>
+        <item>The Dating Game</item>
+        <item>Freeze Tag</item>
+        <item>Sports Center</item>
+        <item>CSI Miami</item>
     </string-array>
 </resources>
